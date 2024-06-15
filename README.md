@@ -1,2 +1,2 @@
 # Zwolski_Korzel_SI_Projekt
-Projekt dotyczący przewidywania popularności artykułów na podstawie bazy danych 'Online New Popularity'
+Projekt dotyczący przewidywania popularności artykułów na podstawie bazy danych 'Online News Popularity'
